@@ -1,4 +1,4 @@
-![logo vetorr (1)-1](https://user-images.githubusercontent.com/98785969/182271543-96b28c8e-2c90-49db-b4da-c4fd91ff1290.png)
+![logo vetorr (1)-2](https://user-images.githubusercontent.com/98785969/182271669-8e64c0b5-1ba7-431a-93d7-cd13a7c6fe9c.png)
 ### [🏁 Já conhece nosso projeto? Não? Clique aqui para saber mais!](https://github.com/Projeto-Final-Na-medida-Atelie/na-medida-atelie)
 
 ## Motivação:
