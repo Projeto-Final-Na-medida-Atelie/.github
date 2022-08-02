@@ -1,0 +1,2 @@
+Nós somos uma equipe de devs front-end que indentificamos uma deficiência no mercado de roupas sob medida, e quem nunca teve um problema com uma roupa "padrão" que ficou larga numa parte e curta em outra? Pensando nisso, nossa equipe desenvolveu este maravilhoso site para suprir essa falta utilizando nosso site como ferramenta que deixa aquela peça que você tanto gostou e não ficou do jeito que mais importa do seu jeito único de ser criando a peça que você desejar especialmente para você.
+
